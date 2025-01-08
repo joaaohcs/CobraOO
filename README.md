@@ -38,7 +38,7 @@ O projeto utiliza conceitos de orientação a objetos para modelar os elementos 
 
 4. Navegue até a pasta do projeto e execute o jogo:
    ```bash
-   python jogo_da_cobrinha.py
+   python cobrinha.py
 
 ## Arquivos Importantes
 
