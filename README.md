@@ -34,7 +34,7 @@ O projeto utiliza conceitos de orientação a objetos para modelar os elementos 
 3. Clone este repositório:
    
    ```bash
-    git clone https://github.com/seu-usuario/jogo-da-cobrinha.git
+    git clone https://github.com/joaaohcs/CobraOO.git
 
 4. Navegue até a pasta do projeto e execute o jogo:
    ```bash
