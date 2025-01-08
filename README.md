@@ -7,6 +7,7 @@ Este é um jogo simples da cobrinha desenvolvido em Python utilizando a bibliote
 - **Python 3**
 - **Pygame**: Para a criação da interface gráfica e animações do jogo.
 - **JSON**: Para salvar e carregar o placar (pontuação máxima).
+- **Serialização de Objetos**
 
 ## Conceitos de Orientação a Objetos Aplicados
 
