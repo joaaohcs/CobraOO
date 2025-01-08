@@ -15,7 +15,6 @@ O projeto utiliza conceitos de orientação a objetos para modelar os elementos 
 - **Herança**: As classes `Snake` e `Food` herdam da classe base `GameObject`, que define atributos e métodos comuns a todos os objetos do jogo.
 - **Polimorfismo**: O método `draw()` é sobrescrito nas classes filhas para desenhar diferentes objetos na tela.
 - **Encapsulamento**: A classe `Snake` possui dados internos como a posição do corpo e direção, que são modificados apenas através de métodos específicos, garantindo maior controle sobre o estado do jogo.
-- **Serialização de Objetos**: O placar é salvo em um arquivo JSON, permitindo que o jogo armazene a pontuação máxima alcançada entre as execuções.
 
 ## Funcionalidades
 
